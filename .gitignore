@@ -1,0 +1,24 @@
+# Node modules directory
+node_modules/
+
+# CSS source map
+main.css.map
+
+# Lock file (usually you want to include it)
+# package-lock.json
+
+# Build output
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Environment variables and sensitive data
+.env
+
+# IDE/editor-specific files
+.vscode/
+.idea/
