@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "sass": "^1.77.8"
+  },
+  "scripts":{
+"sass": "sass --watch main.scss:main.css"
+  },
+"keywords":[
+  "Quotes",
+  "Motivation",
+  "Notion Widget"
+]
+}
