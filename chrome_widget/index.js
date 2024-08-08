@@ -24,4 +24,6 @@ document.addEventListener('click',()=>{
     const randomQuote=quotes_array[random];
     text.textContent=(`${randomQuote.quoteText} 
         - ${randomQuote.quoteAuthor}`);
-})
+});
+
+btn.click();
