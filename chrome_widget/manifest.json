@@ -2,6 +2,7 @@
     "manifest_version":3,
     "name": "Motivational Quotes",
     "version":"1.0",
+    "author": "Redi Curri",
     "description":"A simple chrome widget that generates motivational quotes",
     "permissions":["storage"],
     "action":{
